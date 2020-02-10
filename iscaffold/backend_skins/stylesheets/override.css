@@ -1,0 +1,63 @@
+/* Override here any style defined by web-app-theme */
+
+#main{
+	float: right;
+	width: 100%;
+}
+
+#sidebar{
+	float: left;
+}
+
+/**
+ *	Override for default style
+ */
+#sidebar ul li {
+	background-position: 9px 11px;
+}
+
+#user-navigation ul li span{
+	color: #FFF;
+}
+
+#footer .block {
+	padding: 0;
+	margin: 0;
+	text-align: center;
+}
+#footer{
+	padding: 15px;
+}
+#footer .block p{
+	padding: 0;
+	margin: 0;
+	text-align: center;
+}
+#footer .block a{
+	font-weight: bold;
+}
+tr.even{
+	background-color: #F5F5F5;
+}
+tr.error{
+	background-color: #FDD;
+}
+tr.warning{
+	background-color: #ffeeba;
+}
+tr.success{
+	background-color: #c3e6cb;
+}
+.flash .success {
+  border: 1px solid #bfb;
+  background-color: #dfd;
+}
+body{
+	min-width: min-content;
+}
+#hataridok{
+	font-weight: bold;
+}
+.form textarea.text_area {
+  resize: none;
+}
