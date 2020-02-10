@@ -3,6 +3,7 @@ Záródolgozat rendszer
 ###################
 
 A záródolgozat témaválasztás és konzultáció egyszerűsítésére készült rendszer.
+A rendszer Codeigniter keretrendszerrel készült php nyelvben. A frontend kialakításához ISCaffoldot használva.
 
 *******************
 Server Követelmények
